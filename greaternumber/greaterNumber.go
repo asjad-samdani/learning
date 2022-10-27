@@ -11,7 +11,7 @@ func main() {
 	if x > y {
 		fmt.Println(x, " is greater then ", y, "by", x-y)
 	} else if x == y {
-		fmt.Println(" Both value is equal ")
+		fmt.Println(" Both value are equal ")
 
 	} else {
 		fmt.Println(y, " is greater then ", x, "by", y-x)
